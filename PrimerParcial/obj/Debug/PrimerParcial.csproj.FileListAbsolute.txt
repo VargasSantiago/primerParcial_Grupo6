@@ -1,0 +1,6 @@
+C:\Users\varga\Desktop\PrimerParcial\PrimerParcial\bin\Debug\PrimerParcial.exe.config
+C:\Users\varga\Desktop\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.csprojResolveAssemblyReference.cache
+C:\Users\varga\Desktop\PrimerParcial\PrimerParcial\bin\Debug\PrimerParcial.exe
+C:\Users\varga\Desktop\PrimerParcial\PrimerParcial\bin\Debug\PrimerParcial.pdb
+C:\Users\varga\Desktop\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.exe
+C:\Users\varga\Desktop\PrimerParcial\PrimerParcial\obj\Debug\PrimerParcial.pdb
